@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #F7931D;
+    background-image: url('assets/images/site_bg.jpg');
+}
+
+canvas {
+    margin: auto; 
+    position: absolute; 
+    top: 50px; 
+    left:0; 
+    right:0;
+    border: 3px solid #000000;
+}
