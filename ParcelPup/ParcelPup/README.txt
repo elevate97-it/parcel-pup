@@ -1,4 +1,15 @@
-﻿
+INSTALLATION GUIDE:
+
+1. Download the ParcelPup files
+2. Download and Install Microsoft's VisualStudio Community Version (https://www.visualstudio.com/products/free-developer-offers-vs.aspx)
+3. Open e97_ParcelPup.sln included in the Code download with VisualStudio
+4. Click play in the upper menu. This will launch your browser.
+5. Controls:
+	A: Move Left
+	D: Move Right
+	Space: Ship Package
+	F: Start
+
 TOOLS:
 	IDE:			Microsoft VisualStudio (https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx)
 	
